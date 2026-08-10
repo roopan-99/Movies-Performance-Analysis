@@ -52,7 +52,7 @@ Full column definitions, types, nullability, and sources are in
 | `as_of_date` | Date the box office figure was last confirmed accurate |
 | `notes` | Context (records set, franchise notes, etc.) |
 
-### ⚠️ Important note on box office figures
+## ⚠️ Important note on box office figures
 Box office totals are a **moving target** for any movie still in theaters.
 Several 2026 titles (*The Odyssey*, *Spider-Man: Brand New Day*, *Toy Story 5*,
 *Michael*, *The Super Mario Galaxy Movie*) were still playing in theaters as
