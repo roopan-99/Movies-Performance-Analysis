@@ -83,7 +83,7 @@ compatible with MySQL 8.0+ and PostgreSQL with no changes).
 ## 📈 Reference Charts (images/)
 
 
-![Top 10 box office](images/top10_box_office.png)
+![Power-bi Dashboard](https://github.com/roopan-99/Movies-Performance-Analysis/blob/bcf38af57cefe7be65a2cadb2c9c738efced84e1/screenshort/Screenshot%202026-08-12%20200833.png)
 
 
 ## 🔍 Key insights
