@@ -82,21 +82,9 @@ compatible with MySQL 8.0+ and PostgreSQL with no changes).
 
 ## 📈 Reference Charts (images/)
 
-**Top 10 Highest-Grossing Movies (2025–2026)**
 
 ![Top 10 box office](images/top10_box_office.png)
 
-**Average IMDb Rating by Genre**
-
-![Avg rating by genre](images/avg_rating_by_genre.png)
-
-**Budget vs. Box Office**
-
-![Budget vs box office](images/budget_vs_boxoffice.png)
-
-**2025 vs 2026 Combined Box Office**
-
-![Year comparison](images/year_comparison.png)
 
 ## 🔍 Key insights
 - **Ne Zha 2** ($2.26B) is the highest-grossing film across both years, and
